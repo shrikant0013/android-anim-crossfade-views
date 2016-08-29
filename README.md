@@ -8,6 +8,5 @@ Simple animation for transitions between views using ViewPropertyAnimator
   * For view fading out -> change alpha (opacity) to 0 over duration of 200 milliseconds and make invisible
 
 # Attribution
-
 This code was created by Shrikant Pandhare in 2016 for use in CodePath sessions.
 
